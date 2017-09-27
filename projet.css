@@ -1,9 +1,10 @@
 h1{
-	color: blue;
+	color: red;
 	text-decoration: underline;
 	text-align: center;
 }
 
 img{
 	border: solid;
+	border-width: 4px;
 }
